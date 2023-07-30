@@ -1,0 +1,453 @@
+p1	p2	score	type1	type2
+testa dura	testardo	3,642857143	aggettivi	i
+testa dura	ostinato	2,928571429	aggettivi	i
+testa dura	tenace	2,339285714	aggettivi	i
+testa dura	umile	1,089285714	aggettivi	i
+testa calda	impulsivo	3,625	aggettivi	i
+testa calda	nevrotico	2,767857143	aggettivi	i
+testa calda	infuocato	2,410714286	aggettivi	i
+testa calda	fiacco	1,196428571	aggettivi	i
+straordinariamente bello	magnifico	3,017857143	aggettivi	c
+straordinariamente bello	stupendo	2,964285714	aggettivi	c
+straordinariamente bello	incantevole	2,857142857	aggettivi	c
+straordinariamente bello	onesto	1,160714286	aggettivi	c
+palla al piede	impedimento	3,321428571	aggettivi	i
+palla al piede	incomodo	2,875	aggettivi	i
+palla al piede	noioso	2,571428571	aggettivi	i
+palla al piede	morbido	1,232142857	aggettivi	i
+molto piccolo	minuscolo	3,446428571	aggettivi	c
+molto piccolo	microscopico	3,107142857	aggettivi	c
+molto piccolo	minimo	2,142857143	aggettivi	c
+molto piccolo	nuovo	1,303571429	aggettivi	c
+molto affettuoso	amorevole	3,232142857	aggettivi	c
+molto affettuoso	coccoloso	3,035714286	aggettivi	c
+molto affettuoso	tenero	2,625	aggettivi	c
+molto affettuoso	freddo	1,107142857	aggettivi	c
+mani bucate	spendaccione	3,787234043	aggettivi	i
+mani bucate	sprecone	2,914893617	aggettivi	i
+mani bucate	sottile	1,765957447	aggettivi	i
+mani bucate	prodigioso	1,531914894	aggettivi	i
+impresa eroica	gesta	3,212765957	aggettivi	c
+impresa eroica	prodezza	2,85106383	aggettivi	c
+impresa eroica	audace	2,70212766	aggettivi	c
+impresa eroica	leggero	1,234042553	aggettivi	c
+fuori di testa	pazzo	3,410714286	aggettivi	i
+fuori di testa	folle	3,303571429	aggettivi	i
+fuori di testa	insensato	2,035714286	aggettivi	i
+fuori di testa	simpatico	1,25	aggettivi	i
+di vasta portata	ampio	3,425531915	aggettivi	c
+di vasta portata	esteso	2,744680851	aggettivi	c
+di vasta portata	spazioso	2,680851064	aggettivi	c
+di vasta portata	fresco	1,14893617	aggettivi	c
+di seconda mano	usato	3,744680851	aggettivi	i
+di seconda mano	vecchio	2,553191489	aggettivi	i
+di seconda mano	secondario	2,446808511	aggettivi	i
+di seconda mano	luminoso	1,255319149	aggettivi	i
+di scarsa qualità	scadente	3,659574468	aggettivi	c
+di scarsa qualità	mediocre	2,70212766	aggettivi	c
+di scarsa qualità	inferiore	2,404255319	aggettivi	c
+di scarsa qualità	amaro	1,234042553	aggettivi	c
+di lunga vita	longevo	3,553191489	aggettivi	c
+di lunga vita	duraturo	3,127659574	aggettivi	c
+di lunga vita	prolungato	2,127659574	aggettivi	c
+di lunga vita	caldo	1,191489362	aggettivi	c
+di facile comprensione	intuitivo	3,517857143	aggettivi	c
+di facile comprensione	semplice	2,964285714	aggettivi	c
+di facile comprensione	perspicace	2,321428571	aggettivi	c
+di facile comprensione	pungente	1,196428571	aggettivi	c
+di difficile comprensione	complesso	3,191489362	aggettivi	c
+di difficile comprensione	criptico	2,893617021	aggettivi	c
+di difficile comprensione	enigmatico	2,744680851	aggettivi	c
+di difficile comprensione	colorato	1,170212766	aggettivi	c
+di buon cuore	altruista	3,142857143	aggettivi	i
+di buon cuore	generoso	3,035714286	aggettivi	i
+di buon cuore	gentile	2,714285714	aggettivi	i
+di buon cuore	veloce	1,107142857	aggettivi	i
+di alto livello	prestigioso	3,425531915	aggettivi	c
+di alto livello	elevato	2,723404255	aggettivi	c
+di alto livello	raffinato	2,659574468	aggettivi	c
+di alto livello	ruvido	1,191489362	aggettivi	c
+di alta qualità	eccellente	3,127659574	aggettivi	c
+di alta qualità	premium	2,872340426	aggettivi	c
+di alta qualità	superiore	2,829787234	aggettivi	c
+di alta qualità	bagnato	1,170212766	aggettivi	c
+cuor di leone	coraggioso	3,5	aggettivi	i
+cuor di leone	impavido	2,714285714	aggettivi	i
+cuor di leone	audace	2,535714286	aggettivi	i
+cuor di leone	testardo	1,25	aggettivi	i
+chiaramente visibile	evidente	3,571428571	aggettivi	c
+chiaramente visibile	palese	3,214285714	aggettivi	c
+chiaramente visibile	docile	1,678571429	aggettivi	c
+chiaramente visibile	sbagliato	1,535714286	aggettivi	c
+ben educato	educato	3,361702128	aggettivi	c
+ben educato	gentile	2,829787234	aggettivi	c
+ben educato	cortese	2,744680851	aggettivi	c
+ben educato	gelido	1,063829787	aggettivi	c
+basso profilo	discreto	3,29787234	aggettivi	c
+basso profilo	riservato	3,191489362	aggettivi	c
+basso profilo	moderato	2,29787234	aggettivi	c
+basso profilo	fragile	1,212765957	aggettivi	c
+a portata di mano	accessibile	3,29787234	aggettivi	c
+a portata di mano	vicino	2,744680851	aggettivi	c
+a portata di mano	pratico	2,680851064	aggettivi	c
+a portata di mano	acido	1,276595745	aggettivi	c
+a bruciapelo	vicinissimo	3,428571429	aggettivi	c
+a bruciapelo	prossimo	2,821428571	aggettivi	c
+a bruciapelo	adiacente	2,464285714	aggettivi	c
+a bruciapelo	dolce	1,285714286	aggettivi	c
+a basso costo	economico	3,787234043	aggettivi	c
+a basso costo	conveniente	2,787234043	aggettivi	c
+a basso costo	accessibile	2,340425532	aggettivi	c
+a basso costo	soffice	1,085106383	aggettivi	c
+senza dubbio	indubbiamente	3,446428571	avverbi	c
+senza dubbio	sicuramente	2,678571429	avverbi	c
+senza dubbio	certamente	2,428571429	avverbi	c
+senza dubbio	apparentemente	1,446428571	avverbi	c
+per lo più	principalmente	3,042553191	avverbi	c
+per lo più	soprattutto	2,978723404	avverbi	c
+per lo più	specialmente	2,553191489	avverbi	c
+per lo più	pazientemente	1,425531915	avverbi	c
+ogni tanto	occasionalmente	3,425531915	avverbi	c
+ogni tanto	talvolta	2,744680851	avverbi	c
+ogni tanto	saltuariamente	2,553191489	avverbi	c
+ogni tanto	costantemente	1,276595745	avverbi	c
+in un attimo	immediatamente	3,212765957	avverbi	c
+in un attimo	rapidamente	2,723404255	avverbi	c
+in un attimo	velocemente	2,531914894	avverbi	c
+in un attimo	provvisoriamente	1,531914894	avverbi	c
+in primo luogo	innanzitutto	3,617021277	avverbi	c
+in primo luogo	primariamente	2,872340426	avverbi	c
+in primo luogo	preliminarmente	2,276595745	avverbi	c
+in primo luogo	energeticamente	1,234042553	avverbi	c
+in particolare	particolarmente	3,553191489	avverbi	c
+in particolare	specialmente	3,021276596	avverbi	c
+in particolare	soprattutto	2,14893617	avverbi	c
+in particolare	casualmente	1,276595745	avverbi	c
+in modo occasionale	occasionalmente	3,723404255	avverbi	c
+in modo occasionale	talvolta	2,638297872	avverbi	c
+in modo occasionale	periodicamente	2,255319149	avverbi	c
+in modo occasionale	costantemente	1,382978723	avverbi	c
+in modo improvviso	improvvisamente	3,765957447	avverbi	c
+in modo improvviso	repentinamente	2,553191489	avverbi	c
+in modo improvviso	immediatamente	2,382978723	avverbi	c
+in modo improvviso	lentamente	1,29787234	avverbi	c
+in modo graduale	gradualmente	3,714285714	avverbi	c
+in modo graduale	progressivamente	2,928571429	avverbi	c
+in modo graduale	gradatamente	1,964285714	avverbi	c
+in modo graduale	distintamente	1,392857143	avverbi	c
+in generale	generalmente	3,785714286	avverbi	c
+in generale	comunemente	2,875	avverbi	c
+in generale	geneticamente	2,107142857	avverbi	c
+in generale	maestosamente	1,232142857	avverbi	c
+fuori portata	irraggiungibile	3,196428571	avverbi	c
+fuori portata	inaccessibile	3,017857143	avverbi	c
+fuori portata	inarrivabile	2,571428571	avverbi	c
+fuori portata	abilmente	1,214285714	avverbi	c
+di solito	solitamente	3,446808511	avverbi	c
+di solito	abitualmente	2,765957447	avverbi	c
+di solito	generalmente	2,553191489	avverbi	c
+di solito	raramente	1,234042553	avverbi	c
+di sicuro	sicuramente	3,392857143	avverbi	c
+di sicuro	certamente	2,767857143	avverbi	c
+di sicuro	indubbiamente	2,678571429	avverbi	c
+di sicuro	profondamente	1,160714286	avverbi	c
+di rado	raramente	3,744680851	avverbi	c
+di rado	eccezionalmente	2,595744681	avverbi	c
+di rado	scarsamente	2,531914894	avverbi	c
+di rado	sempre	1,127659574	avverbi	c
+di primo acchito	inizialmente	3,425531915	avverbi	c
+di primo acchito	immediatamente	2,617021277	avverbi	c
+di primo acchito	prontamente	2,382978723	avverbi	c
+di primo acchito	appositamente	1,574468085	avverbi	c
+di gran lunga	decisamente	3,017857143	avverbi	c
+di gran lunga	nettamente	2,875	avverbi	c
+di gran lunga	ampiamente	2,75	avverbi	c
+di gran lunga	bruscamente	1,357142857	avverbi	c
+di fretta	frettolosamente	3,531914894	avverbi	c
+di fretta	velocemente	2,680851064	avverbi	c
+di fretta	precipitosamente	2,489361702	avverbi	c
+di fretta	bruscamente	1,29787234	avverbi	c
+di continuo	continuamente	3,553571429	avverbi	c
+di continuo	costantemente	2,75	avverbi	c
+di continuo	incessantemente	2,535714286	avverbi	c
+di continuo	serenamente	1,160714286	avverbi	c
+di conseguenza	quindi	3,127659574	avverbi	c
+di conseguenza	pertanto	2,893617021	avverbi	c
+di conseguenza	dunque	2,85106383	avverbi	c
+di conseguenza	inutilmente	1,127659574	avverbi	c
+di colpo	improvvisamente	3,744680851	avverbi	c
+di colpo	immediatamente	2,468085106	avverbi	c
+di colpo	repentinamente	2,425531915	avverbi	c
+di colpo	maggiormente	1,361702128	avverbi	c
+con molto impegno	diligentemente	3,053571429	avverbi	c
+con molto impegno	assiduamente	2,821428571	avverbi	c
+con molto impegno	arduamente	2,732142857	avverbi	c
+con molto impegno	discretamente	1,392857143	avverbi	c
+con molta passione	appassionatamente	3,696428571	avverbi	c
+con molta passione	ardentemente	2,946428571	avverbi	c
+con molta passione	fervidamente	2,232142857	avverbi	c
+con molta passione	involontariamente	1,125	avverbi	c
+con grande difficoltà	difficilmente	3,607142857	avverbi	c
+con grande difficoltà	arduamente	2,875	avverbi	c
+con grande difficoltà	laboriosamente	2,107142857	avverbi	c
+con grande difficoltà	incidentalmente	1,410714286	avverbi	c
+con grande cura	accuratamente	3,232142857	avverbi	c
+con grande cura	meticolosamente	2,714285714	avverbi	c
+con grande cura	attentamente	2,571428571	avverbi	c
+con grande cura	rigorosamente	1,482142857	avverbi	c
+a poco a poco	gradualmente	3,517857143	avverbi	c
+a poco a poco	lentamente	3,107142857	avverbi	c
+a poco a poco	caoticamente	1,714285714	avverbi	c
+a poco a poco	pienamente	1,660714286	avverbi	c
+a occhio e croce	approssimativamente	3,732142857	avverbi	i
+a occhio e croce	sistematicamente	2,214285714	avverbi	i
+a occhio e croce	intenzionalmente	2,089285714	avverbi	i
+a occhio e croce	metodicamente	1,964285714	avverbi	i
+a malincuore	tristemente	3,535714286	avverbi	c
+a malincuore	contrariamente	2,464285714	avverbi	c
+a malincuore	faticosamente	2,464285714	avverbi	c
+a malincuore	cautamente	1,535714286	avverbi	c
+vigile del fuoco	pompiere	3,660714286	nomi	c
+vigile del fuoco	soccorritore	2,696428571	nomi	c
+vigile del fuoco	emergenza	2,392857143	nomi	c
+vigile del fuoco	girasole	1,25	nomi	c
+studio dentistico	dentista	3,660714286	nomi	c
+studio dentistico	odontoiatra	2,910714286	nomi	c
+studio dentistico	visita	2,285714286	nomi	c
+studio dentistico	penna	1,142857143	nomi	c
+settimo cielo	felicità	3,25	nomi	i
+settimo cielo	estasi	2,892857143	nomi	i
+settimo cielo	paradiso	2,553571429	nomi	i
+settimo cielo	bicchiere	1,303571429	nomi	i
+seggiolino per bambini	seggiolino	3,617021277	nomi	c
+seggiolino per bambini	sicurezza	2,340425532	nomi	c
+seggiolino per bambini	seduta	2,255319149	nomi	c
+seggiolino per bambini	seggiola	1,787234043	nomi	c
+sedia sdraio	lettino	3,571428571	nomi	c
+sedia sdraio	relax	3	nomi	c
+sedia sdraio	pausa	2,25	nomi	c
+sedia sdraio	giraffa	1,178571429	nomi	c
+scuola materna	asilo	3,535714286	nomi	c
+scuola materna	nido	2,553571429	nomi	c
+scuola materna	educazione	2,410714286	nomi	c
+scuola materna	gioco	1,5	nomi	c
+scarpe da ginnastica	sneakers	3,428571429	nomi	c
+scarpe da ginnastica	scarpette	2,839285714	nomi	c
+scarpe da ginnastica	allenamento	2,25	nomi	c
+scarpe da ginnastica	pallone	1,482142857	nomi	c
+presidente del consiglio	premier	3,70212766	nomi	c
+presidente del consiglio	esecutivo	2,340425532	nomi	c
+presidente del consiglio	politica	2,170212766	nomi	c
+presidente del consiglio	cancelliere	1,787234043	nomi	c
+posta elettronica	email	3,659574468	nomi	c
+posta elettronica	mail	3	nomi	c
+posta elettronica	messaggio	1,680851064	nomi	c
+posta elettronica	corrispondenza	1,659574468	nomi	c
+piedi piatti	poliziotto	3,607142857	nomi	i
+piedi piatti	agente	3,053571429	nomi	i
+piedi piatti	forza	2,125	nomi	i
+piedi piatti	zanzara	1,214285714	nomi	i
+organizzazione non governativa	ong	3,361702128	nomi	c
+organizzazione non governativa	associazione	2,765957447	nomi	c
+organizzazione non governativa	ente	2,29787234	nomi	c
+organizzazione non governativa	solidarietà	1,574468085	nomi	c
+navicella spaziale	astronave	3,723404255	nomi	c
+navicella spaziale	razzo	2,489361702	nomi	c
+navicella spaziale	esplorazione	1,957446809	nomi	c
+navicella spaziale	veicolo	1,829787234	nomi	c
+monna lisa	gioconda	3,625	nomi	i
+monna lisa	quadro	2,678571429	nomi	i
+monna lisa	opera	2,482142857	nomi	i
+monna lisa	biscotto	1,214285714	nomi	i
+mal di testa	emicrania	3,617021277	nomi	c
+mal di testa	cefalea	2,893617021	nomi	c
+mal di testa	dolore	2,404255319	nomi	c
+mal di testa	diarrea	1,085106383	nomi	c
+mal di schiena	lombalgia	3,404255319	nomi	c
+mal di schiena	lombosciatalgia	2,957446809	nomi	c
+mal di schiena	acciacco	2,29787234	nomi	c
+mal di schiena	ferita	1,340425532	nomi	c
+macchina fotografica	fotocamera	3,638297872	nomi	c
+macchina fotografica	reflex	2,617021277	nomi	c
+macchina fotografica	camera	2,510638298	nomi	c
+macchina fotografica	lampadina	1,234042553	nomi	c
+lavoratore autonomo	freelance	2,978723404	nomi	c
+lavoratore autonomo	indipendente	2,808510638	nomi	c
+lavoratore autonomo	professionista	2,70212766	nomi	c
+lavoratore autonomo	occupazione	1,510638298	nomi	c
+lavaggio del cervello	manipolazione	3,303571429	nomi	i
+lavaggio del cervello	condizionamento	2,803571429	nomi	i
+lavaggio del cervello	indottrinamento	2,625	nomi	i
+lavaggio del cervello	tempesta	1,267857143	nomi	i
+illuminazione stradale	lampioni	3,339285714	nomi	c
+illuminazione stradale	illuminazione	3,053571429	nomi	c
+illuminazione stradale	fari	2,321428571	nomi	c
+illuminazione stradale	acqua	1,285714286	nomi	c
+gita fuori porta	escursione	3,319148936	nomi	i
+gita fuori porta	scampagnata	2,914893617	nomi	i
+gita fuori porta	passeggiata	2,446808511	nomi	i
+gita fuori porta	erba	1,319148936	nomi	i
+figlio di papà	viziato	3,803571429	nomi	i
+figlio di papà	maleducato	2,607142857	nomi	i
+figlio di papà	scorretto	2,375	nomi	i
+figlio di papà	racchetta	1,214285714	nomi	i
+esercizio fisico	allenamento	3,276595745	nomi	c
+esercizio fisico	sport	2,787234043	nomi	c
+esercizio fisico	movimento	2,361702128	nomi	c
+esercizio fisico	salute	1,574468085	nomi	c
+due di picche	rifiuto	3,678571429	nomi	i
+due di picche	fallimento	2,767857143	nomi	i
+due di picche	sfortuna	2,285714286	nomi	i
+due di picche	pinguino	1,267857143	nomi	i
+donna di facili costumi	prostituta	3,660714286	nomi	i
+donna di facili costumi	escort	2,982142857	nomi	i
+donna di facili costumi	sfacciata	2,196428571	nomi	i
+donna di facili costumi	caricatore	1,160714286	nomi	i
+casa circondariale	carcere	3,696428571	nomi	i
+casa circondariale	galera	3,053571429	nomi	i
+casa circondariale	gabbia	2,089285714	nomi	i
+casa circondariale	zaino	1,160714286	nomi	i
+cartina geografica	mappa	3,446808511	nomi	c
+cartina geografica	atlante	2,489361702	nomi	c
+cartina geografica	mappamondo	2,234042553	nomi	c
+cartina geografica	geografia	1,829787234	nomi	c
+capo di stato	presidente	3,489361702	nomi	c
+capo di stato	governante	2,234042553	nomi	c
+capo di stato	sovrano	2,14893617	nomi	c
+capo di stato	governo	2,127659574	nomi	c
+bomba a mano	granata	3,464285714	nomi	c
+bomba a mano	esplosivo	3,071428571	nomi	c
+bomba a mano	guerra	1,910714286	nomi	c
+bomba a mano	pericolo	1,553571429	nomi	c
+assistente di volo	hostess	3,70212766	nomi	c
+assistente di volo	steward	2,595744681	nomi	c
+assistente di volo	assistente	2,553191489	nomi	c
+assistente di volo	tisana	1,14893617	nomi	c
+animale da laboratorio	cavia	3,785714286	nomi	c
+animale da laboratorio	ratto	2,785714286	nomi	c
+animale da laboratorio	ricerca	2,285714286	nomi	c
+animale da laboratorio	fungo	1,142857143	nomi	c
+agente di polizia	poliziotto	3,446808511	nomi	c
+agente di polizia	agente	2,787234043	nomi	c
+agente di polizia	sbirro	2,14893617	nomi	c
+agente di polizia	sicurezza	1,617021277	nomi	c
+tirare le cuoia	morire	3,553571429	verbi	i
+tirare le cuoia	decedere	3,089285714	verbi	i
+tirare le cuoia	passare	2,196428571	verbi	i
+tirare le cuoia	baciare	1,160714286	verbi	i
+stare in silenzio	tacere	3,625	verbi	c
+stare in silenzio	mutarsi	3,035714286	verbi	c
+stare in silenzio	tergiversare	1,964285714	verbi	c
+stare in silenzio	toccare	1,375	verbi	c
+prendere una decisione	decidere	3,723404255	verbi	c
+prendere una decisione	scegliere	2,829787234	verbi	c
+prendere una decisione	determinare	2,191489362	verbi	c
+prendere una decisione	fingere	1,255319149	verbi	c
+prendere nota	annotare	3,482142857	verbi	c
+prendere nota	segnare	2,696428571	verbi	c
+prendere nota	scrivere	2,607142857	verbi	c
+prendere nota	preferire	1,214285714	verbi	c
+prendere appunti	appuntare	3,468085106	verbi	c
+prendere appunti	annotare	3,361702128	verbi	c
+prendere appunti	segnare	2,106382979	verbi	c
+prendere appunti	cucinare	1,063829787	verbi	c
+porre fine	terminare	3,267857143	verbi	c
+porre fine	concludere	3,142857143	verbi	c
+porre fine	chiudere	2,267857143	verbi	c
+porre fine	consegnare	1,321428571	verbi	c
+non mangiare	digiunare	3,696428571	verbi	c
+non mangiare	astenersi	2,625	verbi	c
+non mangiare	privarsi	2,482142857	verbi	c
+non mangiare	tirare	1,196428571	verbi	c
+mettere insieme	assemblare	3,142857143	verbi	c
+mettere insieme	unire	3,053571429	verbi	c
+mettere insieme	combinare	2,625	verbi	c
+mettere insieme	cominciare	1,178571429	verbi	c
+mettere in pratica	applicare	3,127659574	verbi	c
+mettere in pratica	eseguire	2,85106383	verbi	c
+mettere in pratica	realizzare	2,829787234	verbi	c
+mettere in pratica	nuotare	1,191489362	verbi	c
+mettere in ordine	sistemare	3,382978723	verbi	c
+mettere in ordine	organizzare	3,063829787	verbi	c
+mettere in ordine	classificare	2,361702128	verbi	c
+mettere in ordine	cantare	1,191489362	verbi	c
+mandare via	allontanare	3,319148936	verbi	c
+mandare via	cacciare	3,255319149	verbi	c
+mandare via	espellere	2,340425532	verbi	c
+mandare via	capire	1,085106383	verbi	c
+gettare la spugna	arrendersi	3,410714286	verbi	i
+gettare la spugna	rinunciare	3,107142857	verbi	i
+gettare la spugna	cedere	2,321428571	verbi	i
+gettare la spugna	giacere	1,160714286	verbi	i
+fare un'ipotesi	ipotizzare	3,696428571	verbi	c
+fare un'ipotesi	supporre	2,75	verbi	c
+fare un'ipotesi	formulare	2,303571429	verbi	c
+fare un'ipotesi	agire	1,25	verbi	c
+fare un'indagine	indagare	3,464285714	verbi	c
+fare un'indagine	investigare	2,946428571	verbi	c
+fare un'indagine	esaminare	2,321428571	verbi	c
+fare un'indagine	chiamare	1,267857143	verbi	c
+fare una pausa	riposare	3,255319149	verbi	c
+fare una pausa	interrompere	2,893617021	verbi	c
+fare una pausa	sospendere	2,659574468	verbi	c
+fare una pausa	saltellare	1,191489362	verbi	c
+fare una domanda	chiedere	3,638297872	verbi	c
+fare una domanda	interrogare	2,936170213	verbi	c
+fare una domanda	porre	2,234042553	verbi	c
+fare una domanda	ballare	1,191489362	verbi	c
+fare un viaggio	viaggiare	3,70212766	verbi	c
+fare un viaggio	esplorare	2,595744681	verbi	c
+fare un viaggio	visitare	2,510638298	verbi	c
+fare un viaggio	mangiare	1,191489362	verbi	c
+fare un giro	passeggiare	3,255319149	verbi	c
+fare un giro	gironzolare	2,914893617	verbi	c
+fare un giro	girare	2,553191489	verbi	c
+fare un giro	vivere	1,276595745	verbi	c
+fare la fila	accodarsi	3,680851064	verbi	c
+fare la fila	aggregarsi	2,659574468	verbi	c
+fare la fila	seguire	2,510638298	verbi	c
+fare la fila	suonare	1,14893617	verbi	c
+fare goal	segnare	3,803571429	verbi	c
+fare goal	tirare	2,821428571	verbi	c
+fare goal	marcare	2,321428571	verbi	c
+fare goal	soffiare	1,053571429	verbi	c
+fare amicizia	socializzare	3,714285714	verbi	c
+fare amicizia	fraternizzare	2,857142857	verbi	c
+fare amicizia	connettersi	2,285714286	verbi	c
+fare amicizia	funzionare	1,142857143	verbi	c
+diventare rosso	arrossire	3,617021277	verbi	c
+diventare rosso	vergognarsi	2,936170213	verbi	c
+diventare rosso	infiammarsi	2,276595745	verbi	c
+diventare rosso	dormire	1,170212766	verbi	c
+dare una mano	aiutare	3,638297872	verbi	c
+dare una mano	assistere	2,70212766	verbi	c
+dare una mano	sostenere	2,531914894	verbi	c
+dare una mano	correre	1,127659574	verbi	c
+dare il benvenuto	accogliere	3,787234043	verbi	c
+dare il benvenuto	salutare	2,595744681	verbi	c
+dare il benvenuto	ricevere	2,510638298	verbi	c
+dare il benvenuto	spendere	1,106382979	verbi	c
+dare consigli	consigliare	3,660714286	verbi	c
+dare consigli	suggerire	2,767857143	verbi	c
+dare consigli	raccomandare	2,428571429	verbi	c
+dare consigli	gridare	1,142857143	verbi	c
+dare alla luce	partorire	3,607142857	verbi	i
+dare alla luce	procreare	2,732142857	verbi	i
+dare alla luce	figliare	2,410714286	verbi	i
+dare alla luce	cucire	1,25	verbi	i
+avere influenza	influenzare	3,446428571	verbi	c
+avere influenza	influire	2,75	verbi	c
+avere influenza	condizionare	2,535714286	verbi	c
+avere influenza	dondolare	1,267857143	verbi	c
+assumere droghe	drogarsi	3,70212766	verbi	c
+assumere droghe	sniffare	2,85106383	verbi	c
+assumere droghe	bucarsi	2,340425532	verbi	c
+assumere droghe	urlare	1,106382979	verbi	c
+andare di corpo	defecare	3,660714286	verbi	i
+andare di corpo	evacuare	2,821428571	verbi	i
+andare di corpo	liberarsi	2,303571429	verbi	i
+andare di corpo	tagliare	1,214285714	verbi	i
+alzarsi in volo	decollare	3,553191489	verbi	c
+alzarsi in volo	sollevarsi	2,829787234	verbi	c
+alzarsi in volo	involarsi	2,404255319	verbi	c
+alzarsi in volo	leggere	1,212765957	verbi	c
